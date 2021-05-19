@@ -1,0 +1,13 @@
+C:\Users\Lucas Viana\Desktop\.NET\Transferencias-Bancarias\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\Lucas Viana\Desktop\.NET\Transferencias-Bancarias\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\Lucas Viana\Desktop\.NET\Transferencias-Bancarias\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\Lucas Viana\Desktop\.NET\Transferencias-Bancarias\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\Lucas Viana\Desktop\.NET\Transferencias-Bancarias\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\Lucas Viana\Desktop\.NET\Transferencias-Bancarias\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\Lucas Viana\Desktop\.NET\Transferencias-Bancarias\Banco\obj\Debug\netcoreapp3.1\Banco.csprojAssemblyReference.cache
+C:\Users\Lucas Viana\Desktop\.NET\Transferencias-Bancarias\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\Lucas Viana\Desktop\.NET\Transferencias-Bancarias\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\Lucas Viana\Desktop\.NET\Transferencias-Bancarias\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Viana\Desktop\.NET\Transferencias-Bancarias\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\Lucas Viana\Desktop\.NET\Transferencias-Bancarias\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\Lucas Viana\Desktop\.NET\Transferencias-Bancarias\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
